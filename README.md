@@ -1,2 +1,2 @@
 # Dynamic-array
-This is complete implementation of dynamic array data structure using C++
+This is menu driven program of implementation of dynamic array data structure using C++
